@@ -1,0 +1,10 @@
+# GhostTrace: Autonomous Financial Crime Investigation
+# Track: The Vampire's Ledger | Aapthamitra Audits
+
+networkx>=3.2
+pandas>=2.0.0
+numpy>=1.25.0
+streamlit>=1.30.0
+pyvis>=0.3.2
+altair>=5.0.0
+pytest>=8.0.0
